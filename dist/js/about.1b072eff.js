@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrifas"]=self["webpackChunkrifas"]||[]).push([[594],{1874:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var o=t(6768);function r(n,e,t,r,u,a){const s=(0,o.g2)("TableComponent");return(0,o.uX)(),(0,o.CE)("div",null,[(0,o.bF)(s)])}var u=t(2416),a={name:"AboutComponent",components:{TableComponent:u.A}},s=t(1241);const c=(0,s.A)(a,[["render",r]]);var f=c}}]);
+//# sourceMappingURL=about.1b072eff.js.map
